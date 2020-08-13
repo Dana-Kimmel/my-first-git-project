@@ -8,3 +8,4 @@ software products:
   - Microsoft C#. Net
   - Git & GitHub.
   - MySQL
+  - Java
